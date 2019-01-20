@@ -1,8 +1,17 @@
-<html>
+div {
+    border: 1px #cccccc;
+}
+#page1 .myDiv  {
+    border:1px #cccccc;
+    color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+
+}
 <head>
-<style type="text/css">
-    h1 {
-        background-color:#ffffff
-        color:#4aaaa5
-        font-family: 'Georgia', Times, Times New Roman, serif;
+<style>
+h1,h2,h3 {
+        background-color:#ffffff;
+        color:#4aaaa5;
+        
     }
+<style>
